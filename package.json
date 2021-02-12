@@ -1,0 +1,23 @@
+{
+  "name": "zenn-contents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasaruKitajima/zenn-contents.git"
+  },
+  "keywords": [],
+  "author": "Masaru Kitajima <thirstytraveler@mac.com> (https://qiita.com/JR8TQH)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MasaruKitajima/zenn-contents/issues"
+  },
+  "homepage": "https://github.com/MasaruKitajima/zenn-contents#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.72"
+  }
+}
